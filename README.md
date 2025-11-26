@@ -113,6 +113,22 @@ Add after running the script:
 `results_sample.png`
 
 This shows both trajectories and makes the engineering benefit directly visible.
+### Visual Comparison Plot
+
+The figure below shows the full classical vs W-Structure trajectories
+generated directly from the code in this repository:
+
+![results_sample](results_sample.png)
+
+### Trajectory Data (CSV)
+
+Reproducible numerical trajectory samples are included:
+
+- [`hohmann_trajectory.csv`](hohmann_trajectory.csv) — classical ellipse  
+- [`w_trajectory.csv`](w_trajectory.csv) — W-Structure informational path  
+
+Each file contains `(t, x, y)` for direct import into MATLAB, NumPy, Mathematica, or mission design tools.
+
 
 ---
 
