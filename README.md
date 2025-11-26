@@ -79,7 +79,7 @@ Fuel mass fraction (Raptor Isp=310 s): ~94% vs ~23%
 | Angular sweep    | 180°              | 58°             | 3.1× shorter path          |
 | Δv (proxy)       | ≈ 5.7 km/s        | ≈ 2.9 km/s      | ≈2× lower Δv               |
 | Fuel mass ratio* | ~94% propellant   | ~23% propellant | ≈4× better mass efficiency |
-* Fuel mass ratio estimated via Tsiolkovsky equation with Raptor-class Isp ≈ 310 s; numbers are order-of-magnitude engineering proxies, not mission-optimized designs.
+*Fuel proxy: Based on Tsiolkovsky rocket equation with Raptor Isp=310s; Δv equiv. ~2.9 km/s (W) vs 5.7 km/s (Hohmann), mass fraction 23% vs 94%
 
 **Fuel proxy explanation:**  
 Using a classical Raptor-class Isp ≈ 310 s, removing periapsis burn + reducing curvature produces a **~76% reduction in Δv-equivalent**, used here as an engineering mass-fraction proxy.
