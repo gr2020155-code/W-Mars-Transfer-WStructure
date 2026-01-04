@@ -1,5 +1,6 @@
 # W–Structure Mars Transfer Simulation  
 ## Earth → Mars: Classical Hohmann vs W-Structure Trajectory
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.18148328.svg)](https://doi.org/10.5281/zenodo.18148328)
 
 This repository presents a direct, reproducible engineering comparison between:
 
